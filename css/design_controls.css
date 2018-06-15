@@ -1,0 +1,26 @@
+#content h1 {
+	font-size: 80px;
+	text-align: left;
+}
+
+#content h3 {
+	font-size: 30px;
+	text-align: left;
+	padding-top: 2%;
+}
+
+#content{
+	padding-top: 5%;
+	-webkit-text-stroke: 0.8px black;
+}
+
+#content p {
+	font-size: 25px;
+	text-align: left;
+}
+
+.btn{
+	margin-left: 44%;
+	margin-top: 5%;
+	margin-bottom: 30%;
+}
